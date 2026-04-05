@@ -28,4 +28,7 @@ Curricular units 1st sem (grade);Feature;Integer;;Grade average in the 1st semes
 Curricular units 1st sem (without evaluations);Feature;Integer;;Number of curricular units without evalutions in the 1st semester;no
 Curricular units 2nd sem (credited);Feature;Integer;;Number of curricular units credited in the 2nd semester;no
 Curricular units 2nd sem (enrolled);Feature;Integer;;Number of curricular units enrolled in the 2nd semester;no
-Curricular units 2nd sem (evaluations);Feature;Integer;;Number of evaluations to curricular units in the 2nd semester;no
+Unemployment rate;Feature;Continuous;;Unemployment rate (%);no
+Inflation rate;Feature;Continuous;;Inflation rate (%);no
+GDP;Feature;Continuous;;GDP;no
+Target;Target;Categorical;;Target. The problem is formulated as a three category classification task (dropout, enrolled, and graduate) at the end of the normal duration of the course;no
