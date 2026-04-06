@@ -1,6 +1,8 @@
 # mvp-analise-de-dados
 MVP para o Sprint Análise de Dados e Boas Práticas da PUC-Rio
 
+Nome: Mariana Rufino da Rocha
+
 ## Análise de Evasão e Sucesso Acadêmico
 
 Este projeto tem como objetivo analisar fatores associados à evasão e ao sucesso acadêmico de estudantes do ensino superior, a partir de um conjunto de variáveis demográficas, socioeconômicas, institucionais e de desempenho acadêmico.
