@@ -98,14 +98,10 @@ O projeto foi desenvolvido seguindo as etapas de análise de dados:
 
 ---
 
-## 📌 Estrutura do Projeto
+## Estrutura do Projeto
 
 - `Sprint_Análise_de_Dados_e_Boas_Práticas_Análise_de_Evasão_e_Sucesso_Acadêmico.ipynb` → análise completa  
 - `data.csv` → dataset  
 - `descricao_atributos.csv` → descrição das variáveis  
 
 ---
-
-## 👩‍💻 Autora
-
-Projeto desenvolvido como parte de estudo em Análise de Dados.
